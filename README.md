@@ -14,4 +14,6 @@ data/
 kddcup.data_10_percent.gz
 notebooks/
 ödev1.ipynb
+## Rapor Özeti
 
+Proje kapsamında oluşturulan pdf raporu, KDD Cup 1999 veri setinin keşifsel analizi üzerine odaklanmaktadır. Analiz, veri setindeki temel istatistikleri, sınıf dağılımını, eksik veri kontrolünü ve temel görselleştirmeleri içermektedir. İleride yapılacak veri madenciliği çalışmaları için bir öncül veri seti hazırlanmış ve projenin devamında sınıflandırma algoritmalarının uygulanması planlanmaktadır.
